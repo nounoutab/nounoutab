@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @nounoutab
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#Github-pull-test
 
-<!---
-nounoutab/nounoutab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+sample project to test [Github pull reqeusts](https://marketplace.visualstadio.com/item?itemName=Github.vscode-pull-request-github) extension for code
+
+
+
+[Github pull requests](https://raw.githubusercontent.com/microsoft/vscode-pull-request-github/master/resources/github_logo.png
